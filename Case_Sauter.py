@@ -69,5 +69,4 @@ def main():
     criatudo(df_medium, 'aval_neutra','avaliação neutra', credentials)
     criatudo(df_low, 'aval_negativa','avaliação negativa', credentials)
 
-
 main()
